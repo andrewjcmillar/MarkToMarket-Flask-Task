@@ -1,0 +1,189 @@
+[
+    {
+        "acquirer_name": "August Equity",
+        "target_id": "04220636",
+        "target_name": "Wax Digital",
+        "value": "15000000"
+    },
+    {
+        "acquirer_name": "AB Inbev",
+        "target_id": "03528416",
+        "target_name": "SAB Miller PLC",
+        "value": "100000000000"
+    },
+    {
+        "acquirer_name": "Royal Dutch Shell",
+        "target_id": "03690065",
+        "target_name": "BG Group Ltd",
+        "value": "47000000000"
+    },
+    {
+        "acquirer_name": "Comcast Corp",
+        "target_id": "02247735",
+        "target_name": "Sky PLC",
+        "value": "38000000000"
+    },
+    {
+        "acquirer_name": "Softbank Corp",
+        "target_id": "02548782",
+        "target_name": "ARM Holidings PLC",
+        "value": "24000000000"
+    },
+    {
+        "acquirer_name": "BT Group",
+        "target_id": "02382161",
+        "target_name": "EE Limited",
+        "value": "13000000000"
+    },
+    {
+        "acquirer_name": "GKN PLC",
+        "target_id": "04191106",
+        "target_name": "Melrose Industries PLC",
+        "value": "10000000000"
+    },
+    {
+        "acquirer_name": "Vantiv Inc",
+        "target_id": "08762327",
+        "target_name": "Worldpay Group PLC",
+        "value": "9900000000"
+    },
+    {
+        "acquirer_name": "Phoenix Group",
+        "target_id": "SC286833",
+        "target_name": "Standard Life Asssurance",
+        "value": "8200000000"
+    },
+    {
+        "acquirer_name": "August Equity",
+        "target_id": "06489716",
+        "target_name": "BetFair Group PLC",
+        "value": "8100000000"
+    },
+    {
+        "acquirer_name": "Star Groups Inc",
+        "target_id": "02247735",
+        "target_name": "Sky Bet",
+        "value": "2100000000",
+        "partial": true
+    },
+    {
+        "acquirer_name": "Patron Capital",
+        "target_id": "03752645",
+        "target_name": "Punch Taverns PLC",
+        "value": "1800000000"
+    },
+    {
+        "acquirer_name": "Verisk Analytics",
+        "target_id": "SC427101",
+        "target_name": "Wood Mackenzie",
+        "value": "1900000000"
+    },
+    {
+        "acquirer_name": "CYBG",
+        "target_id": "03087587",
+        "target_name": "Virgin Money Holdings",
+        "value": "1000000000"
+    },
+    {
+        "acquirer_name": "Greene King PLC",
+        "target_id": "00024511",
+        "target_name": "Spirit Pub Company PLC",
+        "value": "1600000000"
+    },
+    {
+        "acquirer_name": "Generation investment",
+        "target_id": "05435760",
+        "target_name": "FNZ",
+        "value": "1600000000"
+    },
+    {
+        "acquirer_name": "Access Technology",
+        "target_id": "03283704",
+        "target_name": "VRD Group",
+        "value": "unknown"
+    },
+    {
+        "acquirer_name": "Chess Telecom",
+        "target_id": "02839614",
+        "target_name": "Avenir Telecom",
+        "value": "4320000000"
+    },
+    {
+        "acquirer_name": "Chess Telecom",
+        "target_id": "04613699",
+        "target_name": "Pinnacle CDT",
+        "value": "2800000000"
+    },
+    {
+        "acquirer_name": "Fairfax Financial",
+        "target_id": "08821629",
+        "target_name": "Brit PLC",
+        "value": "1200000000"
+    },
+    {
+        "acquirer_name": "Brother Industries",
+        "target_id": "01363137",
+        "target_name": "Domino Printing Services",
+        "value": "1000000000"
+    },
+    {
+        "acquirer_name": "Midlothian Capital Partners",
+        "target_id": "SC010975",
+        "target_name": "Dobbies Garden Centres",
+        "value": "210000000"
+    },
+    {
+        "acquirer_name": "Dave Whelan Sports Ltd",
+        "target_id": "03207791",
+        "target_name": "Fitness First Clubs",
+        "value": "190000000"
+    },
+    {
+        "acquirer_name": "Deutsche Post AG",
+        "target_id": "02800218",
+        "target_name": "UK Mail Group PLC",
+        "value": "240000000"
+    },
+    {
+        "acquirer_name": "Wesfarmers Ltd",
+        "target_id": "04071533",
+        "target_name": "Homebase Group Ltd",
+        "value": "340000000"
+    },
+    {
+        "acquirer_name": "RPC Group PLC",
+        "target_id": "00108191",
+        "target_name": "British Polythene Industries PLC",
+        "value": "350000000"
+    },
+    {
+        "acquirer_name": "Visa Inc",
+        "target_id": "05139966",
+        "target_name": "Visa Europe Ltd",
+        "value": "11000000000"
+    },
+    {
+        "acquirer_name": "Just Retirement Group",
+        "target_id": "08419490",
+        "target_name": "Partnership Assurance",
+        "value": "3100000000"
+    },
+    {
+        "acquirer_name": "AB Inbev",
+        "target_id": "03528416",
+        "target_name": "SAB Miller PLC",
+        "value": "101000000"
+    },
+    {
+        "acquirer_name": "Arris International PLC",
+        "target_id": "01672847",
+        "target_name": "Pace PLC",
+        "value": "1400000000"
+    },
+    {
+        "acquirer_name": "AMC Entertainment Inc",
+        "target_id": "06170611",
+        "target_name": "Odeon",
+        "value": "1200000000"
+    }
+]
